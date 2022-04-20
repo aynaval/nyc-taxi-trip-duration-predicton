@@ -27,7 +27,7 @@ The purpose of this project is to predict the trip duration of NYC Taxi Trip> It
 * EDA is performed on the data to find patterns and insights from the data.
 * Following steps are performed in feature engineering : Column creation, Column delection and Transformation.
 * Following models have been train on the dataset : Linear regression, Lasso, Ridge, Decision tree and XGboost.
-* Winner model is XGboost with R2 value of: 0.80 and RMSE of: 0.13.h
+* Winner model is XGboost with R2 value of: 0.80 and RMSE of: 0.13.
 * Shap values have been calculated for XGboost model and most important features are : Pickup_dropoff_diatance, hour, Geo-coridantes and Day.
 
 
